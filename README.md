@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:070804,20:161715,42:5F3C3C,58:B77E87,78:4E5F6E,100:EADFD6&amp;height=190&amp;section=header&amp;text=Steve%20Clarke&amp;fontSize=54&amp;fontColor=ffffff&amp;animation=twinkling&amp;fontAlignY=34&amp;desc=SRE%20%2F%20DevOps%20%E2%80%A2%20Trading%20systems%20%E2%80%A2%20FIX%20%E2%80%A2%20Rust%20games%20%E2%80%A2%20ESP32%20tinkering&amp;descSize=16&amp;descAlignY=56" alt="Steve Clarke - SRE / DevOps, Trading systems, FIX, Rust games, ESP32 tinkering"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:070804,20:161715,42:5F3C3C,58:B77E87,78:4E5F6E,100:EADFD6&amp;height=190&amp;section=header&amp;text=Steve%20Clarke&amp;fontSize=54&amp;fontColor=ffffff&amp;animation=twinkling&amp;fontAlignY=34&amp;desc=SRE%20%2F%20DevOps%20%E2%80%A2%20Trading%20systems%20%E2%80%A2%20FIX%20%E2%80%A2%201980%27s%20Arcade%20Games%20%E2%80%A2%20ESP32%20tinkering&amp;descSize=16&amp;descAlignY=56" alt="Steve Clarke - SRE / DevOps, Trading systems, FIX, 1980's Arcade Games, ESP32 tinkering"/>
 </div>
 
 <div align="center">
