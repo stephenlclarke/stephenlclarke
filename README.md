@@ -35,6 +35,24 @@
   <img src="https://skillicons.dev/icons?i=c,cpp,java,go,rust,swift,python,terraform,ansible,aws,kubernetes,docker,prometheus,grafana,git,linux&amp;perline=8" alt="C, C++, Java, Go, Rust, Swift, Python, Terraform, Ansible, AWS, Kubernetes, Docker, Prometheus, Grafana, Git, Linux"/>
 </div>
 
+---
+
+<p align="center">
+  <a href="https://buy.stripe.com/8x23cvaHjaXzdg30Ni77O00">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%E2%9D%A4%EF%B8%8F-brightgreen?style=for-the-badge&amp;logo=buymeacoffee&amp;logoColor=white" alt="Buy Me a Coffee">
+  </a>
+  &nbsp;
+  <a href="https://github.com/stephenlclarke/stephenlclarke/discussions">
+    <img src="https://img.shields.io/badge/Leave%20a%20Comment-%F0%9F%92%AC-blue?style=for-the-badge" alt="Leave a Comment">
+  </a>
+</p>
+
+<p align="center">
+  <sub>If you like the projects here, a coffee or a comment keeps the caffeine and ideas flowing.</sub>
+</p>
+
+---
+
 ## GitHub Signal
 
 <table>
