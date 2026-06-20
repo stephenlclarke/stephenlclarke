@@ -91,8 +91,7 @@
     <td width="50%"><img width="100%" src="/metrics.languages.svg" alt="Languages activity metrics"/></td>
   </tr>
   <tr>
-    <td width="50%"><img width="100%" src="/metrics.activity.svg" alt="Recent GitHub activity metrics"/></td>
-    <td width="50%"><img width="100%" src="/metrics.repositories.svg" alt="Featured repository metrics"/></td>
+    <td colspan="2"><img width="100%" src="/metrics.repositories.svg" alt="Featured repository metrics"/></td>
   </tr>
 </table>
 
