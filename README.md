@@ -79,7 +79,7 @@
 
 ## Metrics
 
-<p>Generated daily with <a href="https://github.com/lowlighter/metrics">lowlighter/metrics</a>. The cards below will appear after the first successful workflow run.</p>
+<p>Generated daily with <a href="https://github.com/lowlighter/metrics">lowlighter/metrics</a>.</p>
 
 <picture>
   <img src="/metrics.classic.svg" alt="GitHub metrics overview" width="100%">
@@ -91,8 +91,8 @@
     <td width="50%"><img width="100%" src="/metrics.languages.svg" alt="Languages activity metrics"/></td>
   </tr>
   <tr>
-    <td width="50%"><img width="100%" src="/metrics.habits.svg" alt="Coding habits metrics"/></td>
-    <td width="50%"><img width="100%" src="/metrics.achievements.svg" alt="GitHub achievements metrics"/></td>
+    <td width="50%"><img width="100%" src="/metrics.activity.svg" alt="Recent GitHub activity metrics"/></td>
+    <td width="50%"><img width="100%" src="/metrics.repositories.svg" alt="Featured repository metrics"/></td>
   </tr>
 </table>
 

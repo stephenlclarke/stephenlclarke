@@ -36,6 +36,7 @@ jobs:
           user: stephenlclarke
           filename: metrics.classic.svg
           output_action: none
+          plugins_errors_fatal: "yes"
           config_timezone: Europe/London
           config_display: large
           base: header, activity, community, repositories, metadata
@@ -48,6 +49,7 @@ jobs:
           user: stephenlclarke
           filename: metrics.isocalendar.svg
           output_action: none
+          plugins_errors_fatal: "yes"
           config_timezone: Europe/London
           base: ""
           plugin_isocalendar: "yes"
@@ -61,6 +63,7 @@ jobs:
           user: stephenlclarke
           filename: metrics.languages.svg
           output_action: none
+          plugins_errors_fatal: "yes"
           config_timezone: Europe/London
           base: ""
           plugin_languages: "yes"
@@ -68,33 +71,38 @@ jobs:
           plugin_languages_sections: most-used
           plugin_languages_details: percentage
 
-      - name: Habits
+      - name: Recent activity
         if: ${{ env.METRICS_TOKEN != '' }}
         uses: lowlighter/metrics@latest
         with:
           token: ${{ env.METRICS_TOKEN }}
           user: stephenlclarke
-          filename: metrics.habits.svg
+          filename: metrics.activity.svg
           output_action: none
+          plugins_errors_fatal: "yes"
           config_timezone: Europe/London
           base: ""
-          plugin_habits: "yes"
-          plugin_habits_facts: "yes"
-          plugin_habits_charts: "yes"
+          plugin_activity: "yes"
+          plugin_activity_limit: 6
+          plugin_activity_days: 30
+          plugin_activity_filter: push, pr, release, issue, review, ref/create
+          plugin_activity_visibility: public
 
-      - name: Achievements
+      - name: Featured repositories
         if: ${{ env.METRICS_TOKEN != '' }}
         uses: lowlighter/metrics@latest
         with:
           token: ${{ env.METRICS_TOKEN }}
           user: stephenlclarke
-          filename: metrics.achievements.svg
+          filename: metrics.repositories.svg
           output_action: none
+          plugins_errors_fatal: "yes"
           config_timezone: Europe/London
           base: ""
-          plugin_achievements: "yes"
-          plugin_achievements_display: compact
-          plugin_achievements_threshold: X
+          plugin_repositories: "yes"
+          plugin_repositories_featured: >-
+            battlezone, pacman, defender, fixdecoder_rs, container-compose,
+            ScopeTimer
 
       - name: Commit generated metrics
         if: ${{ env.METRICS_TOKEN != '' }}
