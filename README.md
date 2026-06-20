@@ -38,8 +38,8 @@
 ---
 
 <p align="center">
-  <a href="https://buy.stripe.com/8x23cvaHjaXzdg30Ni77O00">
-    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%E2%9D%A4%EF%B8%8F-brightgreen?style=for-the-badge&amp;logo=buymeacoffee&amp;logoColor=white" alt="Buy Me a Coffee">
+  <a href="https://www.buymeacoffee.com/xyzzy.tools">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="40">
   </a>
   &nbsp;
   <a href="https://github.com/stephenlclarke/stephenlclarke/discussions">
