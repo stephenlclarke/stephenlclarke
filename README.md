@@ -17,7 +17,7 @@
       <p>My first programming adventure was Z80 assembler on a Sinclair ZX81, mostly trying to make games easier to play. Somehow that led to paid work writing molecular-modelling software in Fortran, C, and C++ on minis, mainframes, and supercomputers.</p>
       <p>I eventually settled into FinTech: trading platforms, exchange connectivity, FIX Protocol, C++, Java, Go, Rust, and Swift. These days I spend a lot of time around DevOps, SRE, metrics, observability, and platform engineering.</p>
       <p>I never lost the games thread, though. I have been learning Rust by rebuilding classics I grew up with, and still enjoy hacking around with ESP32 boards when the soldering iron starts looking lonely.</p>
-      <p>Outside computing, rugby has been a long-running thread too. I played for years, moved into coaching, and eventually listened when my body said enough was enough. These days I am very happy watching Harlequins play from time to time.</p>
+      <p>Outside computing, rugby has been a long-running thread: I played for years until my body made the retirement case then coached for a while, and now enjoy watching Harlequins from time to time.</p>
     </td>
     <td width="36%" valign="top">
       <h3>Current orbit</h3>
