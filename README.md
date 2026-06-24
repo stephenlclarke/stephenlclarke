@@ -33,10 +33,6 @@
   </tr>
 </table>
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,go,rust,swift,python,terraform,ansible,aws,kubernetes,docker,prometheus,grafana,git,linux&amp;perline=8" alt="C, C++, Java, Go, Rust, Swift, Python, Terraform, Ansible, AWS, Kubernetes, Docker, Prometheus, Grafana, Git, Linux"/>
-</div>
-
 ---
 
 ## GitHub Signal
@@ -122,4 +118,8 @@
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:070804,20:161715,42:5F3C3C,58:B77E87,78:4E5F6E,100:EADFD6&amp;height=100&amp;section=footer" alt=""/>
+</div>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,go,rust,swift,python,terraform,ansible,aws,kubernetes,docker,prometheus,grafana,git,linux&amp;perline=8" alt="C, C++, Java, Go, Rust, Swift, Python, Terraform, Ansible, AWS, Kubernetes, Docker, Prometheus, Grafana, Git, Linux"/>
 </div>
