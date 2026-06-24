@@ -41,20 +41,6 @@ jobs:
           config_display: large
           base: header, activity, community, repositories, metadata
 
-      - name: Full-year activity
-        if: ${{ env.METRICS_TOKEN != '' }}
-        uses: lowlighter/metrics@latest
-        with:
-          token: ${{ env.METRICS_TOKEN }}
-          user: stephenlclarke
-          filename: metrics.isocalendar.svg
-          output_action: none
-          plugins_errors_fatal: "yes"
-          config_timezone: Europe/London
-          base: ""
-          plugin_isocalendar: "yes"
-          plugin_isocalendar_duration: full-year
-
       - name: Commit generated metrics
         if: ${{ env.METRICS_TOKEN != '' }}
         run: |

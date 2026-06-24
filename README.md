@@ -96,10 +96,6 @@
   <img src="/metrics.classic.svg" alt="GitHub metrics overview" width="100%">
 </picture>
 
-<picture>
-  <img src="/metrics.isocalendar.svg" alt="Full-year isometric commit calendar" width="50%">
-</picture>
-
 <details>
   <summary>Metrics setup note</summary>
   <p>The workflow expects a repository secret named <code>METRICS_TOKEN</code>. Lowlighter recommends a GitHub personal access token because profile metrics need data that the repository-scoped <code>GITHUB_TOKEN</code> cannot always read.</p>
