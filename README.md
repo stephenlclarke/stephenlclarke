@@ -64,19 +64,6 @@
 
 ---
 
-## GitHub Signal
-
-<table>
-  <tr>
-    <td width="50%">
-      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=stephenlclarke&amp;show_icons=true&amp;rank_icon=github&amp;hide_border=true&amp;title_color=E6DCD3&amp;text_color=EAF2F1&amp;icon_color=B77E87&amp;bg_color=0D1117&amp;custom_title=GitHub%20pulse" alt="Steve's GitHub stats"/>
-    </td>
-    <td width="50%">
-      <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stephenlclarke&amp;layout=compact&amp;langs_count=10&amp;hide_border=true&amp;title_color=E6DCD3&amp;text_color=EAF2F1&amp;bg_color=0D1117&amp;custom_title=Language%20mix" alt="Steve's most used languages"/>
-    </td>
-  </tr>
-</table>
-
 ## Things Worth Poking At
 
 <table>
