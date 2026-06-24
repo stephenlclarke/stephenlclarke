@@ -53,9 +53,11 @@
 
 <table align="center">
   <tr>
-    <td align="center">
+    <td>
       <h3>Tech Stack</h3>
-      <img src="https://skillicons.dev/icons?i=c,cpp,java,go,rust,swift,python,terraform,ansible,aws,kubernetes,docker,prometheus,grafana,git,linux&amp;perline=8" alt="C, C++, Java, Go, Rust, Swift, Python, Terraform, Ansible, AWS, Kubernetes, Docker, Prometheus, Grafana, Git, Linux"/>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=c,cpp,java,go,rust,swift,python,terraform,ansible,aws,kubernetes,docker,prometheus,grafana,git,linux&amp;perline=8" alt="C, C++, Java, Go, Rust, Swift, Python, Terraform, Ansible, AWS, Kubernetes, Docker, Prometheus, Grafana, Git, Linux"/>
+      </p>
     </td>
   </tr>
 </table>
