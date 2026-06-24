@@ -101,12 +101,9 @@
   <img src="/metrics.classic.svg" alt="GitHub metrics overview" width="100%">
 </picture>
 
-<table>
-  <tr>
-    <td width="50%"><img width="100%" src="/metrics.isocalendar.svg" alt="Full-year isometric commit calendar"/></td>
-    <td width="50%"><img width="100%" src="/metrics.languages.svg" alt="Languages activity metrics"/></td>
-  </tr>
-</table>
+<picture>
+  <img src="/metrics.isocalendar.svg" alt="Full-year isometric commit calendar" width="100%">
+</picture>
 
 <details>
   <summary>Metrics setup note</summary>
