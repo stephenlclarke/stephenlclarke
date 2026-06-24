@@ -2,16 +2,12 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:070804,20:161715,42:5F3C3C,58:B77E87,78:4E5F6E,100:EADFD6&amp;height=170&amp;section=footer&amp;text=Steve%20Clarke&amp;fontSize=50&amp;fontColor=ffffff&amp;animation=twinkling&amp;fontAlignY=65&amp;desc=SRE%20%2F%20DevOps%20%E2%80%A2%20Trading%20systems%20%E2%80%A2%20FIX%20Protocol%20%E2%80%A2%201980%27s%20Arcade%20Games%20%E2%80%A2%20ESP32%20tinkering&amp;descSize=15&amp;descAlignY=82" alt="Steve Clarke - SRE / DevOps, Trading systems, FIX Protocol, 1980's Arcade Games, ESP32 tinkering"/>
 </div>
 
-<br/>
-
 <div align="center">
   <a href="https://www.linkedin.com/in/steve-clarke/"><img src="https://img.shields.io/badge/LinkedIn-steve--clarke-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"/></a>
   <a href="https://github.com/stephenlclarke"><img src="https://img.shields.io/github/followers/stephenlclarke?style=for-the-badge&amp;logo=github&amp;color=4E5F6E&amp;labelColor=070804" alt="GitHub followers"/></a>
   <img src="https://komarev.com/ghpvc/?username=stephenlclarke&amp;style=for-the-badge&amp;color=B77E87" alt="Profile views"/>
   <a href="https://github.com/stephenlclarke/stephenlclarke/discussions"><img src="https://img.shields.io/badge/Leave%20a%20Comment-%F0%9F%92%AC-blue?style=for-the-badge" alt="Leave a Comment"/></a>
 </div>
-
-<br/>
 
 <table>
   <tr>
