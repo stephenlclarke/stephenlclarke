@@ -119,9 +119,6 @@
     <td width="50%"><img width="100%" src="/metrics.isocalendar.svg" alt="Full-year isometric commit calendar"/></td>
     <td width="50%"><img width="100%" src="/metrics.languages.svg" alt="Languages activity metrics"/></td>
   </tr>
-  <tr>
-    <td colspan="2"><img width="100%" src="/metrics.repositories.svg" alt="Featured repository metrics"/></td>
-  </tr>
 </table>
 
 <details>
