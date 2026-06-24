@@ -36,6 +36,10 @@
   </tr>
 </table>
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:070804,20:161715,42:5F3C3C,58:B77E87,78:4E5F6E,100:EADFD6&amp;height=80&amp;section=header" alt=""/>
+</div>
+
 <p align="center">
   <a href="https://www.buymeacoffee.com/xyzzy.tools">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="40">
@@ -45,10 +49,6 @@
 <p align="center">
   <sub>If you like the projects here, a coffee or a comment keeps the caffeine and ideas flowing.</sub>
 </p>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:070804,20:161715,42:5F3C3C,58:B77E87,78:4E5F6E,100:EADFD6&amp;height=80&amp;section=header" alt=""/>
-</div>
 
 <table align="center">
   <tr>
