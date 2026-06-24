@@ -39,7 +39,7 @@
   </a>
   &nbsp;
   <a href="https://github.com/stephenlclarke/stephenlclarke/discussions">
-    <img src="https://img.shields.io/badge/Leave%20a%20Comment-%F0%9F%92%AC-blue?style=for-the-badge" alt="Leave a Comment">
+    <img src="https://img.shields.io/badge/Leave%20a%20Comment-%F0%9F%92%AC-blue?style=for-the-badge" alt="Leave a Comment" height="40">
   </a>
 </p>
 
