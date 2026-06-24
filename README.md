@@ -36,22 +36,23 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:070804,20:161715,42:5F3C3C,58:B77E87,78:4E5F6E,100:EADFD6&amp;height=80&amp;section=header" alt=""/>
 </div>
 
-<p align="center">
-  <a href="https://www.buymeacoffee.com/xyzzy.tools">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="40">
-  </a>
-</p>
-
-<p align="center">
-  <sub>If you like the projects here, a coffee or a comment keeps the caffeine and ideas flowing.</sub>
-</p>
-
 <table align="center">
   <tr>
-    <td>
+    <td width="68%" valign="top">
       <h3>Tech Stack</h3>
       <p align="center">
         <img src="https://skillicons.dev/icons?i=c,cpp,java,go,rust,swift,python,terraform,ansible,aws,kubernetes,docker,prometheus,grafana,git,linux&amp;perline=8" alt="C, C++, Java, Go, Rust, Swift, Python, Terraform, Ansible, AWS, Kubernetes, Docker, Prometheus, Grafana, Git, Linux"/>
+      </p>
+    </td>
+    <td width="32%" valign="middle">
+      <h3>Buy Me a Coffee</h3>
+      <p align="center">
+        <a href="https://www.buymeacoffee.com/xyzzy.tools">
+          <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="40">
+        </a>
+      </p>
+      <p align="center">
+        <sub>If you like the projects here, a coffee or a comment keeps the caffeine and ideas flowing.</sub>
       </p>
     </td>
   </tr>
