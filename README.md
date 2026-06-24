@@ -96,6 +96,20 @@
   <img src="/metrics.classic.svg" alt="GitHub metrics overview" width="100%">
 </picture>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=stephenlclarke&amp;theme=default" alt="Stephen Clarke's GitHub profile details"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=stephenlclarke&amp;theme=default" alt="Top languages by repository"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=stephenlclarke&amp;theme=default" alt="Top languages by commit"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=stephenlclarke&amp;theme=default" alt="GitHub profile statistics"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=stephenlclarke&amp;theme=default&amp;utcOffset=1" alt="Commits by hour"/>
+</p>
+
 <details>
   <summary>Metrics setup note</summary>
   <p>The workflow expects a repository secret named <code>METRICS_TOKEN</code>. Lowlighter recommends a GitHub personal access token because profile metrics need data that the repository-scoped <code>GITHUB_TOKEN</code> cannot always read.</p>
