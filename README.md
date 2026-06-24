@@ -98,10 +98,6 @@
 </picture>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=stephenlclarke&amp;theme=default" alt="Stephen Clarke's GitHub profile details"/>
-</p>
-
-<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=stephenlclarke&amp;theme=default" alt="Top languages by repository"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=stephenlclarke&amp;theme=default" alt="Top languages by commit"/>
 </p>
