@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:070804,20:161715,42:5F3C3C,58:B77E87,78:4E5F6E,100:EADFD6&amp;height=190&amp;section=header&amp;text=Steve%20Clarke&amp;fontSize=54&amp;fontColor=ffffff&amp;animation=twinkling&amp;fontAlignY=34&amp;desc=SRE%20%2F%20DevOps%20%E2%80%A2%20Trading%20systems%20%E2%80%A2%20FIX%20Protocol%20%E2%80%A2%201980%27s%20Arcade%20Games%20%E2%80%A2%20ESP32%20tinkering&amp;descSize=16&amp;descAlignY=56" alt="Steve Clarke - SRE / DevOps, Trading systems, FIX Protocol, 1980's Arcade Games, ESP32 tinkering"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:070804,20:161715,42:5F3C3C,58:B77E87,78:4E5F6E,100:EADFD6&amp;height=170&amp;section=footer&amp;text=Steve%20Clarke&amp;fontSize=50&amp;fontColor=ffffff&amp;animation=twinkling&amp;fontAlignY=65&amp;desc=SRE%20%2F%20DevOps%20%E2%80%A2%20Trading%20systems%20%E2%80%A2%20FIX%20Protocol%20%E2%80%A2%201980%27s%20Arcade%20Games%20%E2%80%A2%20ESP32%20tinkering&amp;descSize=15&amp;descAlignY=82" alt="Steve Clarke - SRE / DevOps, Trading systems, FIX Protocol, 1980's Arcade Games, ESP32 tinkering"/>
 </div>
 
 <div align="center">
@@ -48,7 +48,7 @@
 </p>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:070804,20:161715,42:5F3C3C,58:B77E87,78:4E5F6E,100:EADFD6&amp;height=100&amp;section=footer" alt=""/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:070804,20:161715,42:5F3C3C,58:B77E87,78:4E5F6E,100:EADFD6&amp;height=80&amp;section=header" alt=""/>
 </div>
 
 <table align="center">
