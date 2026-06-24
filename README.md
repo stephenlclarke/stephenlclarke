@@ -39,22 +39,6 @@
 
 ---
 
-<p align="center">
-  <a href="https://www.buymeacoffee.com/xyzzy.tools">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="40">
-  </a>
-  &nbsp;
-  <a href="https://github.com/stephenlclarke/stephenlclarke/discussions">
-    <img src="https://img.shields.io/badge/Leave%20a%20Comment-%F0%9F%92%AC-blue?style=for-the-badge" alt="Leave a Comment">
-  </a>
-</p>
-
-<p align="center">
-  <sub>If you like the projects here, a coffee or a comment keeps the caffeine and ideas flowing.</sub>
-</p>
-
----
-
 ## GitHub Signal
 
 <table>
@@ -119,6 +103,22 @@
   <summary>Metrics setup note</summary>
   <p>The workflow expects a repository secret named <code>METRICS_TOKEN</code>. Lowlighter recommends a GitHub personal access token because profile metrics need data that the repository-scoped <code>GITHUB_TOKEN</code> cannot always read.</p>
 </details>
+
+---
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/xyzzy.tools">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="40">
+  </a>
+  &nbsp;
+  <a href="https://github.com/stephenlclarke/stephenlclarke/discussions">
+    <img src="https://img.shields.io/badge/Leave%20a%20Comment-%F0%9F%92%AC-blue?style=for-the-badge" alt="Leave a Comment">
+  </a>
+</p>
+
+<p align="center">
+  <sub>If you like the projects here, a coffee or a comment keeps the caffeine and ideas flowing.</sub>
+</p>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:070804,20:161715,42:5F3C3C,58:B77E87,78:4E5F6E,100:EADFD6&amp;height=100&amp;section=footer" alt=""/>
