@@ -101,7 +101,7 @@
 </picture>
 
 <picture>
-  <img src="/metrics.isocalendar.svg" alt="Full-year isometric commit calendar" width="100%">
+  <img src="/metrics.isocalendar.svg" alt="Full-year isometric commit calendar" width="50%">
 </picture>
 
 <details>
