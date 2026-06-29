@@ -21,10 +21,11 @@
     <td width="36%" valign="top">
       <h3>Current orbit</h3>
       <ul>
+        <li>Implementing Docker Compose on Apple/Container</li>
         <li>Reliability engineering and observability</li>
         <li>Low-latency trading and FIX connectivity</li>
         <li>Rust, Go, Swift, Java, C, and C++</li>
-        <li>Classic arcade rebuilds</li>
+        <li>Classic 1980's arcade rebuilds</li>
         <li>ESP32 and small-board experiments</li>
         <li>Harlequins from the stands now and then</li>
       </ul>
