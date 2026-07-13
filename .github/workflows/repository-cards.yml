@@ -1,0 +1,116 @@
+name: Update recent repository cards
+
+"on":
+  workflow_dispatch:
+  push:
+    paths:
+      - .github/workflows/repository-cards.yml
+  schedule:
+    - cron: "17 */6 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Identify recent public repositories
+        id: recent
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const repositories = await github.paginate(github.rest.repos.listForUser, {
+              username: context.repo.owner,
+              type: "owner",
+              sort: "updated",
+              direction: "desc",
+              per_page: 100,
+            });
+            const selected = repositories
+              .filter((repository) => !repository.archived && !repository.disabled && repository.name !== context.repo.repo)
+              .slice(0, 6)
+              .map((repository) => repository.name);
+
+            if (selected.length !== 6) {
+              core.setFailed("Expected six public, non-archived repositories.");
+              return;
+            }
+
+            core.setOutput("repositories", JSON.stringify(selected));
+
+      - name: Generate first repository card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: "username=${{ github.repository_owner }}&repo=${{ fromJSON(steps.recent.outputs.repositories)[0] }}&bg_color=F6F8FA&title_color=0969DA&text_color=24292F&icon_color=8250DF&border_color=D0D7DE"
+          path: profile/repository-cards/01.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate second repository card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: "username=${{ github.repository_owner }}&repo=${{ fromJSON(steps.recent.outputs.repositories)[1] }}&bg_color=F6F8FA&title_color=0969DA&text_color=24292F&icon_color=8250DF&border_color=D0D7DE"
+          path: profile/repository-cards/02.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate third repository card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: "username=${{ github.repository_owner }}&repo=${{ fromJSON(steps.recent.outputs.repositories)[2] }}&bg_color=F6F8FA&title_color=0969DA&text_color=24292F&icon_color=8250DF&border_color=D0D7DE"
+          path: profile/repository-cards/03.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate fourth repository card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: "username=${{ github.repository_owner }}&repo=${{ fromJSON(steps.recent.outputs.repositories)[3] }}&bg_color=F6F8FA&title_color=0969DA&text_color=24292F&icon_color=8250DF&border_color=D0D7DE"
+          path: profile/repository-cards/04.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate fifth repository card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: "username=${{ github.repository_owner }}&repo=${{ fromJSON(steps.recent.outputs.repositories)[4] }}&bg_color=F6F8FA&title_color=0969DA&text_color=24292F&icon_color=8250DF&border_color=D0D7DE"
+          path: profile/repository-cards/05.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate sixth repository card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: "username=${{ github.repository_owner }}&repo=${{ fromJSON(steps.recent.outputs.repositories)[5] }}&bg_color=F6F8FA&title_color=0969DA&text_color=24292F&icon_color=8250DF&border_color=D0D7DE"
+          path: profile/repository-cards/06.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Normalize generated SVGs
+        run: |
+          set -euo pipefail
+          perl -pi -e 's/[ \t]+$//' profile/repository-cards/*.svg
+          perl -0pi -e 's/\n+\z/\n/' profile/repository-cards/*.svg
+
+      - name: Update repository card links
+        env:
+          PROFILE_OWNER: ${{ github.repository_owner }}
+          RECENT_REPOSITORIES: ${{ steps.recent.outputs.repositories }}
+        run: node .github/scripts/update-recent-repository-cards.mjs
+
+      - name: Commit repository cards
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md profile/repository-cards/*.svg
+          if git diff --cached --quiet; then
+            echo "No repository card changes to commit."
+            exit 0
+          fi
+          git commit -m "chore: update recent repository cards [skip ci]"
+          git push
