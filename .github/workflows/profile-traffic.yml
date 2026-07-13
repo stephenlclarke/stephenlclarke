@@ -1,0 +1,57 @@
+name: Update unique visitor badge
+
+# PROFILE_TRAFFIC_TOKEN must be a fine-grained token with Administration: read for this repository.
+
+"on":
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - .github/scripts/update-unique-visitors-badge.mjs
+      - .github/workflows/profile-traffic.yml
+  schedule:
+    - cron: "23 4 * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: unique-visitor-badge
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    env:
+      TRAFFIC_TOKEN: ${{ secrets.PROFILE_TRAFFIC_TOKEN }}
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Skip when PROFILE_TRAFFIC_TOKEN is missing
+        if: ${{ env.TRAFFIC_TOKEN == '' }}
+        run: echo "PROFILE_TRAFFIC_TOKEN is not set; skipping visitor badge update."
+
+      - name: Read unique visitors from GitHub traffic
+        if: ${{ env.TRAFFIC_TOKEN != '' }}
+        env:
+          GH_TOKEN: ${{ env.TRAFFIC_TOKEN }}
+        run: |
+          set -euo pipefail
+          uniques="$(gh api -H 'X-GitHub-Api-Version: 2026-03-10' "repos/${GITHUB_REPOSITORY}/traffic/views" --jq '.uniques')"
+          node .github/scripts/update-unique-visitors-badge.mjs "$uniques" profile/unique-visitors.svg
+
+      - name: Commit updated visitor badge
+        if: ${{ env.TRAFFIC_TOKEN != '' }}
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/unique-visitors.svg
+          if git diff --cached --quiet; then
+            echo "No unique visitor badge changes to commit."
+            exit 0
+          fi
+          git commit -m "chore: update unique visitor badge [skip ci]"
+          git push
