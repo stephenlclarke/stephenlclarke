@@ -33,7 +33,7 @@
 
 ---
 
-## Things worth a furtle
+## Things I am currently messing around with
 
 <sub>Six most recently updated public repositories, refreshed every six hours.</sub>
 
