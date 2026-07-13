@@ -63,32 +63,36 @@
 
 ## Things worth a furtle
 
+<sub>Six most recently updated public repositories, refreshed every six hours.</sub>
+
+<!-- recent-repositories:start -->
 <table>
   <tr>
     <td width="50%">
-      <a href="https://github.com/stephenlclarke/battlezone"><img width="100%" src="https://github.com/stephenlclarke/stephenlclarke/raw/refs/heads/main/assets/repo-cards/battlezone.svg" alt="Battlezone repo card"/></a>
+      <a href="https://github.com/stephenlclarke/container-compose"><img width="100%" src="https://github.com/stephenlclarke/stephenlclarke/raw/refs/heads/main/profile/repository-cards/01.svg" alt="container-compose repository card"/></a>
     </td>
     <td width="50%">
-      <a href="https://github.com/stephenlclarke/pacman"><img width="100%" src="https://github.com/stephenlclarke/stephenlclarke/raw/refs/heads/main/assets/repo-cards/pacman.svg" alt="Pacman repo card"/></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/stephenlclarke/defender"><img width="100%" src="https://github.com/stephenlclarke/stephenlclarke/raw/refs/heads/main/assets/repo-cards/defender.svg" alt="Defender repo card"/></a>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/stephenlclarke/fixdecoder_rs"><img width="100%" src="https://github.com/stephenlclarke/stephenlclarke/raw/refs/heads/main/assets/repo-cards/fixdecoder-rs.svg" alt="fixdecoder_rs repo card"/></a>
+      <a href="https://github.com/stephenlclarke/container"><img width="100%" src="https://github.com/stephenlclarke/stephenlclarke/raw/refs/heads/main/profile/repository-cards/02.svg" alt="container repository card"/></a>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <a href="https://github.com/stephenlclarke/container-compose"><img width="100%" src="https://github.com/stephenlclarke/stephenlclarke/raw/refs/heads/main/assets/repo-cards/container-compose.svg" alt="container-compose repo card"/></a>
+      <a href="https://github.com/stephenlclarke/homebrew-tap"><img width="100%" src="https://github.com/stephenlclarke/stephenlclarke/raw/refs/heads/main/profile/repository-cards/03.svg" alt="homebrew-tap repository card"/></a>
     </td>
     <td width="50%">
-      <a href="https://github.com/stephenlclarke/ScopeTimer"><img width="100%" src="https://github.com/stephenlclarke/stephenlclarke/raw/refs/heads/main/assets/repo-cards/scope-timer.svg" alt="ScopeTimer repo card"/></a>
+      <a href="https://github.com/stephenlclarke/containerization"><img width="100%" src="https://github.com/stephenlclarke/stephenlclarke/raw/refs/heads/main/profile/repository-cards/04.svg" alt="containerization repository card"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/stephenlclarke/container-builder-shim"><img width="100%" src="https://github.com/stephenlclarke/stephenlclarke/raw/refs/heads/main/profile/repository-cards/05.svg" alt="container-builder-shim repository card"/></a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/stephenlclarke/ScopeTimer"><img width="100%" src="https://github.com/stephenlclarke/stephenlclarke/raw/refs/heads/main/profile/repository-cards/06.svg" alt="ScopeTimer repository card"/></a>
     </td>
   </tr>
 </table>
+<!-- recent-repositories:end -->
 
 ## Metrics
 
