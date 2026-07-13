@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="195" viewBox="0 0 495 195" role="img" aria-labelledby="title description">
+  <title id="title">Pacman repository card</title>
+  <desc id="description">PacMan written in Rust using Kitty, Warp, or Ghostty.</desc>
+  <rect width="495" height="195" fill="#0D1117"/>
+  <rect x="0.5" y="0.5" width="494" height="194" fill="none" stroke="#30363D"/>
+  <text x="28" y="48" fill="#E6DCD3" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="26" font-weight="600">Pacman</text>
+  <text x="28" y="84" fill="#EAF2F1" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="16">Rust terminal game for Kitty, Warp, or Ghostty.</text>
+  <circle cx="36" cy="153" r="7" fill="#DEA584"/>
+  <text x="52" y="159" fill="#8B949E" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="15">Rust</text>
+</svg>
