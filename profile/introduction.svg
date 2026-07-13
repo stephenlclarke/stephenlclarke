@@ -14,52 +14,15 @@
       <stop offset="0%" stop-color="#161715"/>
       <stop offset="100%" stop-color="#242A31"/>
     </linearGradient>
-    <style>
-      .wave-top-accent,
-      .wave-top-highlight,
-      .wave-bottom-accent,
-      .wave-bottom-highlight {
-        transform-box: fill-box;
-        transform-origin: center;
-      }
-
-      .wave-top-accent { animation: wave-top-drift 8s ease-in-out infinite; }
-      .wave-top-highlight { animation: wave-top-highlight-drift 8s ease-in-out infinite; }
-      .wave-bottom-accent { animation: wave-bottom-drift 8s ease-in-out infinite; }
-      .wave-bottom-highlight { animation: wave-bottom-highlight-drift 8s ease-in-out infinite; }
-
-      @keyframes wave-top-drift {
-        0%, 100% { transform: translateY(0); }
-        50% { transform: translateY(18px); }
-      }
-
-      @keyframes wave-top-highlight-drift {
-        0%, 100% { transform: translateY(0); }
-        50% { transform: translateY(12px); }
-      }
-
-      @keyframes wave-bottom-drift {
-        0%, 100% { transform: translateY(0); }
-        50% { transform: translateY(-18px); }
-      }
-
-      @keyframes wave-bottom-highlight-drift {
-        0%, 100% { transform: translateY(0); }
-        50% { transform: translateY(-12px); }
-      }
-
-      @media (prefers-reduced-motion: reduce) {
-        .wave-top-accent,
-        .wave-top-highlight,
-        .wave-bottom-accent,
-        .wave-bottom-highlight { animation: none; }
-      }
-    </style>
   </defs>
 
   <rect width="960" height="760" fill="url(#panel)"/>
-  <path class="wave-top-accent" d="M0 -20H960V155C744 120 585 145 425 132C248 118 128 78 0 56Z" fill="url(#accent)" opacity="0.88"/>
-  <path class="wave-top-highlight" d="M0 0H960V19C766 10 600 27 428 18C244 7 118 9 0 3Z" fill="#FFFFFF" opacity="0.16"/>
+  <path d="M0 0L0 90Q240 130 480 100T960 125L960 0Z" fill="url(#accent)" opacity="0.88">
+    <animate attributeName="d" dur="20s" repeatCount="indefinite" keyTimes="0;0.333;0.667;1" calcMode="spline" keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1" values="M0 0L0 90Q240 130 480 100T960 125L960 0Z;M0 0L0 115Q240 130 480 110T960 100L960 0Z;M0 0L0 135Q240 105 480 135T960 100L960 0Z;M0 0L0 90Q240 130 480 100T960 125L960 0Z"/>
+  </path>
+  <path d="M0 0L0 105Q240 150 480 120T960 130L960 0Z" fill="#FFFFFF" opacity="0.16">
+    <animate attributeName="d" dur="20s" repeatCount="indefinite" keyTimes="0;0.333;0.667;1" calcMode="spline" keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1" begin="-10s" values="M0 0L0 105Q240 150 480 120T960 130L960 0Z;M0 0L0 120Q240 90 480 90T960 110L960 0Z;M0 0L0 115Q240 95 480 120T960 135L960 0Z;M0 0L0 105Q240 150 480 120T960 130L960 0Z"/>
+  </path>
 
   <g fill="#FFFFFF" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
     <text x="480" y="95" text-anchor="middle" font-size="52" font-weight="700">Steve Clarke</text>
@@ -106,6 +69,10 @@
     </g>
   </g>
 
-  <path class="wave-bottom-accent" d="M0 714C148 682 293 750 468 720C636 688 794 746 960 706V780H0Z" fill="url(#accent)" opacity="0.88"/>
-  <path class="wave-bottom-highlight" d="M0 744C188 718 343 766 526 738C700 711 835 743 960 730V780H0Z" fill="#FFFFFF" opacity="0.18"/>
+  <path d="M0 760L0 680Q240 720 480 690T960 715L960 760Z" fill="url(#accent)" opacity="0.88">
+    <animate attributeName="d" dur="20s" repeatCount="indefinite" keyTimes="0;0.333;0.667;1" calcMode="spline" keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1" values="M0 760L0 680Q240 720 480 690T960 715L960 760Z;M0 760L0 705Q240 720 480 700T960 690L960 760Z;M0 760L0 725Q240 695 480 725T960 690L960 760Z;M0 760L0 680Q240 720 480 690T960 715L960 760Z"/>
+  </path>
+  <path d="M0 760L0 695Q240 740 480 710T960 720L960 760Z" fill="#FFFFFF" opacity="0.18">
+    <animate attributeName="d" dur="20s" repeatCount="indefinite" keyTimes="0;0.333;0.667;1" calcMode="spline" keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1" begin="-10s" values="M0 760L0 695Q240 740 480 710T960 720L960 760Z;M0 760L0 710Q240 680 480 680T960 700L960 760Z;M0 760L0 705Q240 685 480 710T960 725L960 760Z;M0 760L0 695Q240 740 480 710T960 720L960 760Z"/>
+  </path>
 </svg>
