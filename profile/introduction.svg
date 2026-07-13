@@ -17,19 +17,19 @@
   </defs>
 
   <rect width="960" height="760" fill="url(#panel)"/>
-  <path d="M0 0L0 90Q240 130 480 100T960 125L960 0Z" fill="url(#accent)" opacity="0.88">
-    <animate attributeName="d" dur="20s" repeatCount="indefinite" keyTimes="0;0.333;0.667;1" calcMode="spline" keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1" values="M0 0L0 90Q240 130 480 100T960 125L960 0Z;M0 0L0 115Q240 130 480 110T960 100L960 0Z;M0 0L0 135Q240 105 480 135T960 100L960 0Z;M0 0L0 90Q240 130 480 100T960 125L960 0Z"/>
+  <path d="M0 0L0 80Q240 40 480 70T960 45L960 0Z" fill="url(#accent)" opacity="0.88">
+    <animate attributeName="d" dur="20s" repeatCount="indefinite" keyTimes="0;0.333;0.667;1" calcMode="spline" keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1" values="M0 0L0 80Q240 40 480 70T960 45L960 0Z;M0 0L0 55Q240 40 480 60T960 70L960 0Z;M0 0L0 35Q240 65 480 35T960 70L960 0Z;M0 0L0 80Q240 40 480 70T960 45L960 0Z"/>
   </path>
-  <path d="M0 0L0 105Q240 150 480 120T960 130L960 0Z" fill="#FFFFFF" opacity="0.16">
-    <animate attributeName="d" dur="20s" repeatCount="indefinite" keyTimes="0;0.333;0.667;1" calcMode="spline" keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1" begin="-10s" values="M0 0L0 105Q240 150 480 120T960 130L960 0Z;M0 0L0 120Q240 90 480 90T960 110L960 0Z;M0 0L0 115Q240 95 480 120T960 135L960 0Z;M0 0L0 105Q240 150 480 120T960 130L960 0Z"/>
+  <path d="M0 0L0 65Q240 20 480 50T960 40L960 0Z" fill="#FFFFFF" opacity="0.16">
+    <animate attributeName="d" dur="20s" repeatCount="indefinite" keyTimes="0;0.333;0.667;1" calcMode="spline" keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1" begin="-10s" values="M0 0L0 65Q240 20 480 50T960 40L960 0Z;M0 0L0 50Q240 80 480 80T960 60L960 0Z;M0 0L0 55Q240 75 480 50T960 35L960 0Z;M0 0L0 65Q240 20 480 50T960 40L960 0Z"/>
   </path>
 
   <g fill="#FFFFFF" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
-    <text x="480" y="95" text-anchor="middle" font-size="52" font-weight="700">Steve Clarke</text>
-    <text x="480" y="123" text-anchor="middle" font-size="16" font-weight="600">SRE / DevOps &#8226; Trading systems &#8226; FIX Protocol &#8226; 1980&apos;s Arcade Games &#8226; ESP32 tinkering</text>
+    <text x="480" y="142" text-anchor="middle" font-size="52" font-weight="700">Steve Clarke</text>
+    <text x="480" y="170" text-anchor="middle" font-size="16" font-weight="600">SRE / DevOps &#8226; Trading systems &#8226; FIX Protocol &#8226; 1980&apos;s Arcade Games &#8226; ESP32 tinkering</text>
 
-    <path d="M42 179H918" stroke="#EADFD6" stroke-opacity="0.42"/>
-    <path d="M618 188V657" stroke="#EADFD6" stroke-opacity="0.25"/>
+    <path d="M42 190H918" stroke="#EADFD6" stroke-opacity="0.42"/>
+    <path d="M618 199V657" stroke="#EADFD6" stroke-opacity="0.25"/>
 
     <text x="42" y="220" font-size="23" font-weight="700">From ZX81 game hacks to trading systems</text>
     <g fill="#F0ECE7" font-size="16.5">
