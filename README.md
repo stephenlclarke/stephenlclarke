@@ -1,41 +1,6 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:070804,20:161715,42:5F3C3C,58:B77E87,78:4E5F6E,100:EADFD6&amp;height=170&amp;section=footer&amp;text=Steve%20Clarke&amp;fontSize=50&amp;fontColor=ffffff&amp;animation=twinkling&amp;fontAlignY=65&amp;desc=SRE%20%2F%20DevOps%20%E2%80%A2%20Trading%20systems%20%E2%80%A2%20FIX%20Protocol%20%E2%80%A2%201980%27s%20Arcade%20Games%20%E2%80%A2%20ESP32%20tinkering&amp;descSize=15&amp;descAlignY=82" alt="Steve Clarke - SRE / DevOps, Trading systems, FIX Protocol, 1980's Arcade Games, ESP32 tinkering"/>
+  <img src="profile/introduction.svg" alt="Steve Clarke: SRE and DevOps engineer working with trading systems, FIX Protocol, arcade-game rebuilds, and ESP32 projects. Includes a short biography and current areas of focus."/>
 </p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/steve-clarke/"><img src="https://img.shields.io/badge/LinkedIn-steve--clarke-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://github.com/stephenlclarke"><img src="https://img.shields.io/github/followers/stephenlclarke?style=for-the-badge&amp;logo=github&amp;color=4E5F6E&amp;labelColor=070804" alt="GitHub followers"/></a>
-  <img src="https://komarev.com/ghpvc/?username=stephenlclarke&amp;style=for-the-badge&amp;color=B77E87" alt="Profile views"/>
-  <a href="https://github.com/stephenlclarke/stephenlclarke/discussions"><img src="https://img.shields.io/badge/Leave%20a%20Comment-%F0%9F%92%AC-blue?style=for-the-badge" alt="Leave a Comment"/></a>
-</p>
-
-<table>
-  <tr>
-    <td width="64%" valign="top">
-      <h3>From ZX81 game hacks to trading systems</h3>
-      <p>My first programming adventure was Z80 assembler on a Sinclair ZX81, mostly trying to make games easier to play. Somehow that led to paid work writing molecular-modelling software in Fortran, C, and C++ on minis, mainframes, and supercomputers.</p>
-      <p>I eventually settled into FinTech: trading platforms, exchange connectivity, FIX Protocol, C++, Java, Go, Rust, and Swift. These days I spend a lot of time around DevOps, SRE, metrics, observability, and platform engineering.</p>
-      <p>I never lost the games thread, though. I have been learning Rust by rebuilding classics I grew up with, and still enjoy hacking around with ESP32 boards when the soldering iron starts looking lonely.</p>
-      <p>Outside computing, rugby has been a long-running thread: I played for years until my body made the retirement case then coached for a while, and now enjoy watching Harlequins from time to time.</p>
-    </td>
-    <td width="36%" valign="top">
-      <h3>Current orbit</h3>
-      <ul>
-        <li>Implementing Docker Compose on Apple/Container</li>
-        <li>Reliability engineering and observability</li>
-        <li>Low-latency trading and FIX connectivity</li>
-        <li>Rust, Go, Swift, Java, C, and C++</li>
-        <li>Classic 1980's arcade rebuilds</li>
-        <li>ESP32 and small-board experiments</li>
-        <li>Harlequins from the stands now and then</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:070804,20:161715,42:5F3C3C,58:B77E87,78:4E5F6E,100:EADFD6&amp;height=80&amp;section=header" alt=""/>
-</div>
 
 <table align="center">
   <tr>
