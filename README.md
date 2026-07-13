@@ -66,26 +66,26 @@
 <table>
   <tr>
     <td width="50%">
-      <a href="https://github.com/stephenlclarke/battlezone"><img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=stephenlclarke&amp;repo=battlezone&amp;hide_border=true&amp;title_color=E6DCD3&amp;text_color=EAF2F1&amp;icon_color=B77E87&amp;bg_color=0D1117" alt="Battlezone repo card"/></a>
+      <a href="https://github.com/stephenlclarke/battlezone"><img width="100%" src="https://github.com/stephenlclarke/stephenlclarke/raw/refs/heads/main/assets/repo-cards/battlezone.svg" alt="Battlezone repo card"/></a>
     </td>
     <td width="50%">
-      <a href="https://github.com/stephenlclarke/pacman"><img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=stephenlclarke&amp;repo=pacman&amp;hide_border=true&amp;title_color=E6DCD3&amp;text_color=EAF2F1&amp;icon_color=B77E87&amp;bg_color=0D1117" alt="Pacman repo card"/></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/stephenlclarke/defender"><img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=stephenlclarke&amp;repo=defender&amp;hide_border=true&amp;title_color=E6DCD3&amp;text_color=EAF2F1&amp;icon_color=B77E87&amp;bg_color=0D1117" alt="Defender repo card"/></a>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/stephenlclarke/fixdecoder_rs"><img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=stephenlclarke&amp;repo=fixdecoder_rs&amp;hide_border=true&amp;title_color=E6DCD3&amp;text_color=EAF2F1&amp;icon_color=B77E87&amp;bg_color=0D1117" alt="fixdecoder_rs repo card"/></a>
+      <a href="https://github.com/stephenlclarke/pacman"><img width="100%" src="https://github.com/stephenlclarke/stephenlclarke/raw/refs/heads/main/assets/repo-cards/pacman.svg" alt="Pacman repo card"/></a>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <a href="https://github.com/stephenlclarke/container-compose"><img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=stephenlclarke&amp;repo=container-compose&amp;hide_border=true&amp;title_color=E6DCD3&amp;text_color=EAF2F1&amp;icon_color=B77E87&amp;bg_color=0D1117" alt="container-compose repo card"/></a>
+      <a href="https://github.com/stephenlclarke/defender"><img width="100%" src="https://github.com/stephenlclarke/stephenlclarke/raw/refs/heads/main/assets/repo-cards/defender.svg" alt="Defender repo card"/></a>
     </td>
     <td width="50%">
-      <a href="https://github.com/stephenlclarke/ScopeTimer"><img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=stephenlclarke&amp;repo=ScopeTimer&amp;hide_border=true&amp;title_color=E6DCD3&amp;text_color=EAF2F1&amp;icon_color=B77E87&amp;bg_color=0D1117" alt="ScopeTimer repo card"/></a>
+      <a href="https://github.com/stephenlclarke/fixdecoder_rs"><img width="100%" src="https://github.com/stephenlclarke/stephenlclarke/raw/refs/heads/main/assets/repo-cards/fixdecoder-rs.svg" alt="fixdecoder_rs repo card"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/stephenlclarke/container-compose"><img width="100%" src="https://github.com/stephenlclarke/stephenlclarke/raw/refs/heads/main/assets/repo-cards/container-compose.svg" alt="container-compose repo card"/></a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/stephenlclarke/ScopeTimer"><img width="100%" src="https://github.com/stephenlclarke/stephenlclarke/raw/refs/heads/main/assets/repo-cards/scope-timer.svg" alt="ScopeTimer repo card"/></a>
     </td>
   </tr>
 </table>
