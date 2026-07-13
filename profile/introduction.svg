@@ -17,67 +17,62 @@
   </defs>
 
   <rect width="960" height="720" fill="url(#panel)"/>
-  <path d="M0 0H960V135C744 100 585 125 425 112C248 98 128 58 0 36Z" fill="url(#accent)" opacity="0.88"/>
-  <path d="M0 0H960V19C766 10 600 27 428 18C244 7 118 9 0 3Z" fill="#FFFFFF" opacity="0.16"/>
+  <path d="M0 0H960V135C744 100 585 125 425 112C248 98 128 58 0 36Z" fill="url(#accent)" opacity="0.88">
+    <animate attributeName="d" dur="14s" repeatCount="indefinite" values="M0 0H960V135C744 100 585 125 425 112C248 98 128 58 0 36Z;M0 0H960V135C710 95 570 128 398 106C225 86 108 64 0 44Z;M0 0H960V135C744 100 585 125 425 112C248 98 128 58 0 36Z"/>
+  </path>
+  <path d="M0 0H960V19C766 10 600 27 428 18C244 7 118 9 0 3Z" fill="#FFFFFF" opacity="0.16">
+    <animate attributeName="d" dur="11s" repeatCount="indefinite" values="M0 0H960V19C766 10 600 27 428 18C244 7 118 9 0 3Z;M0 0H960V19C750 7 610 30 420 14C230 1 112 17 0 8Z;M0 0H960V19C766 10 600 27 428 18C244 7 118 9 0 3Z"/>
+  </path>
 
   <g fill="#FFFFFF" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
     <text x="480" y="75" text-anchor="middle" font-size="52" font-weight="700">Steve Clarke</text>
     <text x="480" y="103" text-anchor="middle" font-size="16" font-weight="600">SRE / DevOps &#8226; Trading systems &#8226; FIX Protocol &#8226; 1980&apos;s Arcade Games &#8226; ESP32 tinkering</text>
 
-    <g transform="translate(42 156)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="1.1">
-      <rect width="202" height="34" fill="#0A66C2"/>
-      <text x="13" y="22">LINKEDIN</text>
-      <text x="104" y="22">STEVE-CLARKE</text>
-      <rect x="216" width="168" height="34" fill="#070804"/>
-      <text x="230" y="22">GITHUB</text>
-      <text x="305" y="22">FOLLOW</text>
-      <rect x="398" width="158" height="34" fill="#5F3C3C"/>
-      <text x="412" y="22">PROFILE</text>
-      <text x="496" y="22">VIEWS</text>
-      <rect x="570" width="238" height="34" fill="#4E5F6E"/>
-      <text x="584" y="22">DISCUSS</text>
-      <text x="677" y="22">LEAVE A COMMENT</text>
+    <path d="M42 164H918" stroke="#EADFD6" stroke-opacity="0.42"/>
+    <path d="M618 173V642" stroke="#EADFD6" stroke-opacity="0.25"/>
+
+    <text x="42" y="205" font-size="23" font-weight="700">From ZX81 game hacks to trading systems</text>
+    <g fill="#F0ECE7" font-size="16.5">
+      <text x="42" y="240">My first programming adventure was Z80 assembler on a Sinclair</text>
+      <text x="42" y="264">ZX81, mostly trying to make games easier to play. Somehow that</text>
+      <text x="42" y="288">led to paid work writing molecular-modelling software in</text>
+      <text x="42" y="312">Fortran, C, and C++ on minis, mainframes, and supercomputers.</text>
+
+      <text x="42" y="354">I eventually settled into FinTech: trading platforms, exchange</text>
+      <text x="42" y="378">connectivity, FIX Protocol, C++, Java, Go, Rust, and Swift.</text>
+      <text x="42" y="402">These days I spend a lot of time around DevOps, SRE, metrics,</text>
+      <text x="42" y="426">observability, and platform engineering.</text>
+
+      <text x="42" y="468">I never lost the games thread, though. I have been learning Rust</text>
+      <text x="42" y="492">by rebuilding classics I grew up with, and still enjoy hacking</text>
+      <text x="42" y="516">around with ESP32 boards when the soldering iron starts looking</text>
+      <text x="42" y="540">lonely.</text>
+
+      <text x="42" y="582">Outside computing, rugby has been a long-running thread: I played</text>
+      <text x="42" y="606">for years until my body made the retirement case then coached for</text>
+      <text x="42" y="630">a while, and now enjoy watching Harlequins from time to time.</text>
     </g>
 
-    <path d="M42 215H918" stroke="#EADFD6" stroke-opacity="0.42"/>
-    <path d="M618 250V628" stroke="#EADFD6" stroke-opacity="0.25"/>
-
-    <text x="42" y="262" font-size="23" font-weight="700">From ZX81 game hacks to trading systems</text>
-    <g x="42" y="297" fill="#F0ECE7" font-size="17">
-      <text x="42" y="297">My first programming adventure was Z80 assembler on a Sinclair ZX81,</text>
-      <text x="42" y="321">mostly trying to make games easier to play. Somehow that led to paid work</text>
-      <text x="42" y="345">writing molecular-modelling software in Fortran, C, and C++ on minis,</text>
-      <text x="42" y="369">mainframes, and supercomputers.</text>
-
-      <text x="42" y="411">I eventually settled into FinTech: trading platforms, exchange connectivity,</text>
-      <text x="42" y="435">FIX Protocol, C++, Java, Go, Rust, and Swift. These days I spend a lot of time</text>
-      <text x="42" y="459">around DevOps, SRE, metrics, observability, and platform engineering.</text>
-
-      <text x="42" y="501">I never lost the games thread, though. I have been learning Rust by rebuilding</text>
-      <text x="42" y="525">classics I grew up with, and still enjoy hacking around with ESP32 boards</text>
-      <text x="42" y="549">when the soldering iron starts looking lonely.</text>
-
-      <text x="42" y="591">Outside computing, rugby has been a long-running thread: I played for years</text>
-      <text x="42" y="615">until my body made the retirement case then coached for a while, and now</text>
-      <text x="42" y="639">enjoy watching Harlequins from time to time.</text>
-    </g>
-
-    <text x="650" y="262" font-size="23" font-weight="700">Current orbit</text>
+    <text x="650" y="205" font-size="23" font-weight="700">Current orbit</text>
     <g fill="#F0ECE7" font-size="17">
-      <text x="650" y="303">&#8226; Implementing Docker Compose on</text>
-      <text x="673" y="327">Apple/Container</text>
-      <text x="650" y="369">&#8226; Reliability engineering and</text>
-      <text x="673" y="393">observability</text>
-      <text x="650" y="435">&#8226; Low-latency trading and FIX</text>
-      <text x="673" y="459">connectivity</text>
-      <text x="650" y="501">&#8226; Rust, Go, Swift, Java, C, and C++</text>
-      <text x="650" y="543">&#8226; Classic 1980&apos;s arcade rebuilds</text>
-      <text x="650" y="585">&#8226; ESP32 and small-board experiments</text>
-      <text x="650" y="627">&#8226; Harlequins from the stands now</text>
-      <text x="673" y="651">and then</text>
+      <text x="650" y="246">&#8226; Implementing Docker Compose on</text>
+      <text x="673" y="270">Apple/Container</text>
+      <text x="650" y="312">&#8226; Reliability engineering and</text>
+      <text x="673" y="336">observability</text>
+      <text x="650" y="378">&#8226; Low-latency trading and FIX</text>
+      <text x="673" y="402">connectivity</text>
+      <text x="650" y="444">&#8226; Rust, Go, Swift, Java, C, and C++</text>
+      <text x="650" y="486">&#8226; Classic 1980&apos;s arcade rebuilds</text>
+      <text x="650" y="528">&#8226; ESP32 and small-board experiments</text>
+      <text x="650" y="570">&#8226; Harlequins from the stands now</text>
+      <text x="673" y="594">and then</text>
     </g>
   </g>
 
-  <path d="M0 666C166 653 300 695 465 680C640 664 785 641 960 675V720H0Z" fill="url(#accent)" opacity="0.88"/>
-  <path d="M0 699C208 688 337 724 518 702C696 681 827 685 960 706V720H0Z" fill="#FFFFFF" opacity="0.18"/>
+  <path d="M0 666C166 653 300 695 465 680C640 664 785 641 960 675V720H0Z" fill="url(#accent)" opacity="0.88">
+    <animate attributeName="d" dur="16s" repeatCount="indefinite" values="M0 666C166 653 300 695 465 680C640 664 785 641 960 675V720H0Z;M0 672C170 642 307 704 480 674C646 646 800 650 960 681V720H0Z;M0 666C166 653 300 695 465 680C640 664 785 641 960 675V720H0Z"/>
+  </path>
+  <path d="M0 699C208 688 337 724 518 702C696 681 827 685 960 706V720H0Z" fill="#FFFFFF" opacity="0.18">
+    <animate attributeName="d" dur="13s" repeatCount="indefinite" values="M0 699C208 688 337 724 518 702C696 681 827 685 960 706V720H0Z;M0 704C210 679 350 728 530 696C704 670 836 692 960 711V720H0Z;M0 699C208 688 337 724 518 702C696 681 827 685 960 706V720H0Z"/>
+  </path>
 </svg>
