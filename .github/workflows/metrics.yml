@@ -37,6 +37,7 @@ jobs:
           filename: metrics.classic.svg
           output_action: none
           plugins_errors_fatal: "yes"
+          config_animations: "no"
           config_timezone: Europe/London
           config_display: large
           base: header, activity, community, repositories, metadata
