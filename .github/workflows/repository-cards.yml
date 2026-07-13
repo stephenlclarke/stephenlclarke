@@ -90,6 +90,12 @@ jobs:
           path: profile/repository-cards/06.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
+      - name: Normalize generated SVGs
+        run: |
+          set -euo pipefail
+          perl -pi -e 's/[ \t]+$//' profile/repository-cards/*.svg
+          perl -0pi -e 's/\n+\z/\n/' profile/repository-cards/*.svg
+
       - name: Update repository card links
         env:
           PROFILE_OWNER: ${{ github.repository_owner }}
