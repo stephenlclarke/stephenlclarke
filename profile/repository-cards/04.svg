@@ -101,7 +101,7 @@
         y="0"
         class="header"
         data-testid="header"
-      >containerization</text>
+      >container-builder-shim</text>
     </g>
       </g>
 
@@ -114,16 +114,16 @@
 
 
     <text class="description" x="25" y="-5">
-      <tspan dy="1.2em" x="25">Containerization is a Swift package for running Linux</tspan><tspan dy="1.2em" x="25">containers on macOS.</tspan>
+      <tspan dy="1.2em" x="25">Shim for connecting Swift host code to BuildKit running in a</tspan><tspan dy="1.2em" x="25">container.</tspan>
     </text>
 
     <g transform="translate(30, 65)">
       <g transform="translate(0, 0)">
     <g data-testid="primary-lang">
-      <circle data-testid="lang-color" cx="0" cy="-5" r="6" fill="#F05138" />
-      <text data-testid="lang-name" class="gray" x="15">Swift</text>
+      <circle data-testid="lang-color" cx="0" cy="-5" r="6" fill="#00ADD8" />
+      <text data-testid="lang-name" class="gray" x="15">Go</text>
     </g>
-    </g><g transform="translate(50.78000001907348, 0)"><g transform="translate(0, 0)">
+    </g><g transform="translate(40.280000305175776, 0)"><g transform="translate(0, 0)">
       <svg
         class="icon"
         y="-12"
