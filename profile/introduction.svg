@@ -23,29 +23,29 @@
         transform-origin: center;
       }
 
-      .wave-top-accent { animation: wave-top-drift 14s ease-in-out infinite; }
-      .wave-top-highlight { animation: wave-top-highlight-drift 11s ease-in-out infinite; }
-      .wave-bottom-accent { animation: wave-bottom-drift 16s ease-in-out infinite; }
-      .wave-bottom-highlight { animation: wave-bottom-highlight-drift 13s ease-in-out infinite; }
+      .wave-top-accent { animation: wave-top-drift 8s ease-in-out infinite; }
+      .wave-top-highlight { animation: wave-top-highlight-drift 8s ease-in-out infinite; }
+      .wave-bottom-accent { animation: wave-bottom-drift 8s ease-in-out infinite; }
+      .wave-bottom-highlight { animation: wave-bottom-highlight-drift 8s ease-in-out infinite; }
 
       @keyframes wave-top-drift {
         0%, 100% { transform: translateY(0); }
-        50% { transform: translateY(8px); }
+        50% { transform: translateY(18px); }
       }
 
       @keyframes wave-top-highlight-drift {
         0%, 100% { transform: translateY(0); }
-        50% { transform: translateY(-5px); }
+        50% { transform: translateY(12px); }
       }
 
       @keyframes wave-bottom-drift {
         0%, 100% { transform: translateY(0); }
-        50% { transform: translateY(-8px); }
+        50% { transform: translateY(-18px); }
       }
 
       @keyframes wave-bottom-highlight-drift {
         0%, 100% { transform: translateY(0); }
-        50% { transform: translateY(5px); }
+        50% { transform: translateY(-12px); }
       }
 
       @media (prefers-reduced-motion: reduce) {
