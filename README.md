@@ -49,18 +49,18 @@
   </tr>
   <tr>
     <td width="50%">
-      <a href="https://github.com/stephenlclarke/container-compose"><img width="100%" src="https://github.com/stephenlclarke/stephenlclarke/raw/refs/heads/main/profile/repository-cards/03.svg" alt="container-compose repository card"/></a>
+      <a href="https://github.com/stephenlclarke/bzflag-swift"><img width="100%" src="https://github.com/stephenlclarke/stephenlclarke/raw/refs/heads/main/profile/repository-cards/03.svg" alt="bzflag-swift repository card"/></a>
     </td>
     <td width="50%">
-      <a href="https://github.com/stephenlclarke/ScopeTimer"><img width="100%" src="https://github.com/stephenlclarke/stephenlclarke/raw/refs/heads/main/profile/repository-cards/04.svg" alt="ScopeTimer repository card"/></a>
+      <a href="https://github.com/stephenlclarke/container-builder-shim"><img width="100%" src="https://github.com/stephenlclarke/stephenlclarke/raw/refs/heads/main/profile/repository-cards/04.svg" alt="container-builder-shim repository card"/></a>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <a href="https://github.com/stephenlclarke/container-builder-shim"><img width="100%" src="https://github.com/stephenlclarke/stephenlclarke/raw/refs/heads/main/profile/repository-cards/05.svg" alt="container-builder-shim repository card"/></a>
+      <a href="https://github.com/stephenlclarke/containerization"><img width="100%" src="https://github.com/stephenlclarke/stephenlclarke/raw/refs/heads/main/profile/repository-cards/05.svg" alt="containerization repository card"/></a>
     </td>
     <td width="50%">
-      <a href="https://github.com/stephenlclarke/container-k8s"><img width="100%" src="https://github.com/stephenlclarke/stephenlclarke/raw/refs/heads/main/profile/repository-cards/06.svg" alt="container-k8s repository card"/></a>
+      <a href="https://github.com/stephenlclarke/mazewar"><img width="100%" src="https://github.com/stephenlclarke/stephenlclarke/raw/refs/heads/main/profile/repository-cards/06.svg" alt="mazewar repository card"/></a>
     </td>
   </tr>
 </table>
