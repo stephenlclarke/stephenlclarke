@@ -1,8 +1,8 @@
 
       <svg
         width="400"
-        height="150"
-        viewBox="0 0 400 150"
+        height="120"
+        viewBox="0 0 400 120"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
         role="img"
@@ -101,7 +101,7 @@
         y="0"
         class="header"
         data-testid="header"
-      >mazewar</text>
+      >bzflag-swift</text>
     </g>
       </g>
 
@@ -114,19 +114,19 @@
 
 
     <text class="description" x="25" y="-5">
-      <tspan dy="1.2em" x="25">Mazewar is a native macOS SwiftUI reimagining of the 1986</tspan><tspan dy="1.2em" x="25">multiplayer maze game. It provides a generated arena,</tspan><tspan dy="1.2em" x="25">familiar movement and facing controls, shooting feedback, a...</tspan>
+      <tspan dy="1.2em" x="25">Native macOS SwiftUI rewrite of BZFlag</tspan>
     </text>
 
-    <g transform="translate(30, 75)">
+    <g transform="translate(30, 45)">
       <g transform="translate(0, 0)">
     <g data-testid="primary-lang">
-      <circle data-testid="lang-color" cx="0" cy="-5" r="6" fill="#555555" />
-      <text data-testid="lang-name" class="gray" x="15">C</text>
+      <circle data-testid="lang-color" cx="0" cy="-5" r="6" fill="#F05138" />
+      <text data-testid="lang-name" class="gray" x="15">Swift</text>
     </g>
     </g>
     </g>
 
-  <svg x="0" y="0"><g transform="translate(-3, 98)">
+  <svg x="0" y="0"><g transform="translate(-3, 68)">
 
     </g></svg>
 
