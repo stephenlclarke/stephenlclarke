@@ -101,7 +101,7 @@
         y="0"
         class="header"
         data-testid="header"
-      >bzflag-swift</text>
+      >mytimebuddy</text>
     </g>
       </g>
 
@@ -114,7 +114,7 @@
 
 
     <text class="description" x="25" y="-5">
-      <tspan dy="1.2em" x="25">Native macOS SwiftUI rewrite of BZFlag</tspan>
+      <tspan dy="1.2em" x="25">Native SwiftUI world clock and time-zone planner for iPhone</tspan>
     </text>
 
     <g transform="translate(30, 45)">
