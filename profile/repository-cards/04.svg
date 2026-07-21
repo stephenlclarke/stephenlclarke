@@ -101,7 +101,7 @@
         y="0"
         class="header"
         data-testid="header"
-      >ScopeTimer</text>
+      >containerization</text>
     </g>
       </g>
 
@@ -114,14 +114,14 @@
 
 
     <text class="description" x="25" y="-5">
-      <tspan dy="1.2em" x="25">A small-ish 🤪, zero-intrusion C++17 RAII scope timer for</tspan><tspan dy="1.2em" x="25">high-performance code paths</tspan>
+      <tspan dy="1.2em" x="25">Containerization is a Swift package for running Linux</tspan><tspan dy="1.2em" x="25">containers on macOS.</tspan>
     </text>
 
     <g transform="translate(30, 65)">
       <g transform="translate(0, 0)">
     <g data-testid="primary-lang">
-      <circle data-testid="lang-color" cx="0" cy="-5" r="6" fill="#f34b7d" />
-      <text data-testid="lang-name" class="gray" x="15">C++</text>
+      <circle data-testid="lang-color" cx="0" cy="-5" r="6" fill="#F05138" />
+      <text data-testid="lang-name" class="gray" x="15">Swift</text>
     </g>
     </g>
     </g>
