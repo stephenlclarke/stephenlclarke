@@ -101,7 +101,7 @@
         y="0"
         class="header"
         data-testid="header"
-      >container-k8s</text>
+      >ScopeTimer</text>
     </g>
       </g>
 
@@ -114,14 +114,14 @@
 
 
     <text class="description" x="25" y="-5">
-      <tspan dy="1.2em" x="25">Kubernetes development cluster plugin for Apple's container</tspan><tspan dy="1.2em" x="25">CLI</tspan>
+      <tspan dy="1.2em" x="25">A small-ish 🤪, zero-intrusion C++17 RAII scope timer for</tspan><tspan dy="1.2em" x="25">high-performance code paths</tspan>
     </text>
 
     <g transform="translate(30, 65)">
       <g transform="translate(0, 0)">
     <g data-testid="primary-lang">
-      <circle data-testid="lang-color" cx="0" cy="-5" r="6" fill="#F05138" />
-      <text data-testid="lang-name" class="gray" x="15">Swift</text>
+      <circle data-testid="lang-color" cx="0" cy="-5" r="6" fill="#f34b7d" />
+      <text data-testid="lang-name" class="gray" x="15">C++</text>
     </g>
     </g>
     </g>
