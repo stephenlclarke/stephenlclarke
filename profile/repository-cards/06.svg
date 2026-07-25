@@ -101,7 +101,7 @@
         y="0"
         class="header"
         data-testid="header"
-      >fixdecoder_rs</text>
+      >pacman</text>
     </g>
       </g>
 
@@ -114,7 +114,7 @@
 
 
     <text class="description" x="25" y="-5">
-      <tspan dy="1.2em" x="25">Rust implementation of fixdecoder</tspan>
+      <tspan dy="1.2em" x="25">PacMan written in Rust using Kitty (run in Warp or Ghostty)</tspan>
     </text>
 
     <g transform="translate(30, 45)">
