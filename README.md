@@ -75,16 +75,16 @@
 </picture>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=stephenlclarke&amp;theme=default" alt="Top languages by repository"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=stephenlclarke&amp;theme=default" alt="Top languages by commit"/>
+  <img src="https://github.com/stephenlclarke/stephenlclarke/raw/refs/heads/main/profile-summary-card-output/default/1-repos-per-language.svg" alt="Top languages by repository"/>
+  <img src="https://github.com/stephenlclarke/stephenlclarke/raw/refs/heads/main/profile-summary-card-output/default/2-most-commit-language.svg" alt="Top languages by commit"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=stephenlclarke&amp;theme=default" alt="GitHub profile statistics"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=stephenlclarke&amp;theme=default&amp;utcOffset=1" alt="Commits by hour"/>
+  <img src="https://github.com/stephenlclarke/stephenlclarke/raw/refs/heads/main/profile-summary-card-output/default/3-stats.svg" alt="GitHub profile statistics"/>
+  <img src="https://github.com/stephenlclarke/stephenlclarke/raw/refs/heads/main/profile-summary-card-output/default/4-productive-time.svg" alt="Commits by hour"/>
 </p>
 
 <details>
   <summary>Metrics setup note</summary>
-  <p>The workflow expects a repository secret named <code>METRICS_TOKEN</code>. Lowlighter recommends a GitHub personal access token because profile metrics need data that the repository-scoped <code>GITHUB_TOKEN</code> cannot always read.</p>
+  <p>The scheduled metrics workflows expect a repository secret named <code>METRICS_TOKEN</code>. It is used to generate and commit the SVG snapshots, so profile visitors do not depend on a live third-party card service.</p>
 </details>
