@@ -41,26 +41,26 @@
 <table>
   <tr>
     <td width="50%">
-      <a href="https://github.com/stephenlclarke/ModuTone"><img width="100%" src="https://github.com/stephenlclarke/stephenlclarke/raw/refs/heads/main/profile/repository-cards/01.svg" alt="ModuTone repository card"/></a>
+      <a href="https://github.com/stephenlclarke/homebrew-tap"><img width="100%" src="https://github.com/stephenlclarke/stephenlclarke/raw/refs/heads/main/profile/repository-cards/01.svg" alt="homebrew-tap repository card"/></a>
     </td>
     <td width="50%">
-      <a href="https://github.com/stephenlclarke/defender"><img width="100%" src="https://github.com/stephenlclarke/stephenlclarke/raw/refs/heads/main/profile/repository-cards/02.svg" alt="defender repository card"/></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/stephenlclarke/mac-sync"><img width="100%" src="https://github.com/stephenlclarke/stephenlclarke/raw/refs/heads/main/profile/repository-cards/03.svg" alt="mac-sync repository card"/></a>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/stephenlclarke/battlezone"><img width="100%" src="https://github.com/stephenlclarke/stephenlclarke/raw/refs/heads/main/profile/repository-cards/04.svg" alt="battlezone repository card"/></a>
+      <a href="https://github.com/stephenlclarke/container-compose"><img width="100%" src="https://github.com/stephenlclarke/stephenlclarke/raw/refs/heads/main/profile/repository-cards/02.svg" alt="container-compose repository card"/></a>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <a href="https://github.com/stephenlclarke/ansible"><img width="100%" src="https://github.com/stephenlclarke/stephenlclarke/raw/refs/heads/main/profile/repository-cards/05.svg" alt="ansible repository card"/></a>
+      <a href="https://github.com/stephenlclarke/ModuTone"><img width="100%" src="https://github.com/stephenlclarke/stephenlclarke/raw/refs/heads/main/profile/repository-cards/03.svg" alt="ModuTone repository card"/></a>
     </td>
     <td width="50%">
-      <a href="https://github.com/stephenlclarke/pacman"><img width="100%" src="https://github.com/stephenlclarke/stephenlclarke/raw/refs/heads/main/profile/repository-cards/06.svg" alt="pacman repository card"/></a>
+      <a href="https://github.com/stephenlclarke/defender"><img width="100%" src="https://github.com/stephenlclarke/stephenlclarke/raw/refs/heads/main/profile/repository-cards/04.svg" alt="defender repository card"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/stephenlclarke/mac-sync"><img width="100%" src="https://github.com/stephenlclarke/stephenlclarke/raw/refs/heads/main/profile/repository-cards/05.svg" alt="mac-sync repository card"/></a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/stephenlclarke/battlezone"><img width="100%" src="https://github.com/stephenlclarke/stephenlclarke/raw/refs/heads/main/profile/repository-cards/06.svg" alt="battlezone repository card"/></a>
     </td>
   </tr>
 </table>
