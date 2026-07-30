@@ -57,10 +57,10 @@
   </tr>
   <tr>
     <td width="50%">
-      <a href="https://github.com/stephenlclarke/mac-sync"><img width="100%" src="https://github.com/stephenlclarke/stephenlclarke/raw/refs/heads/main/profile/repository-cards/05.svg" alt="mac-sync repository card"/></a>
+      <a href="https://github.com/stephenlclarke/containerization"><img width="100%" src="https://github.com/stephenlclarke/stephenlclarke/raw/refs/heads/main/profile/repository-cards/05.svg" alt="containerization repository card"/></a>
     </td>
     <td width="50%">
-      <a href="https://github.com/stephenlclarke/stephenlclarke.github.io"><img width="100%" src="https://github.com/stephenlclarke/stephenlclarke/raw/refs/heads/main/profile/repository-cards/06.svg" alt="stephenlclarke.github.io repository card"/></a>
+      <a href="https://github.com/stephenlclarke/mac-sync"><img width="100%" src="https://github.com/stephenlclarke/stephenlclarke/raw/refs/heads/main/profile/repository-cards/06.svg" alt="mac-sync repository card"/></a>
     </td>
   </tr>
 </table>
