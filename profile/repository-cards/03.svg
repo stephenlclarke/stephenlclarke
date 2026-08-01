@@ -101,7 +101,7 @@
         y="0"
         class="header"
         data-testid="header"
-      >mac-sync</text>
+      >containerization</text>
     </g>
       </g>
 
@@ -114,7 +114,7 @@
 
 
     <text class="description" x="25" y="-5">
-      <tspan dy="1.2em" x="25">mac-sync keeps a curated snapshot of important Mac</tspan><tspan dy="1.2em" x="25">dotfiles</tspan>
+      <tspan dy="1.2em" x="25">Containerization is a Swift package for running Linux</tspan><tspan dy="1.2em" x="25">containers on macOS.</tspan>
     </text>
 
     <g transform="translate(30, 65)">
