@@ -1,8 +1,8 @@
 
       <svg
         width="400"
-        height="150"
-        viewBox="0 0 400 150"
+        height="140"
+        viewBox="0 0 400 140"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
         role="img"
@@ -101,7 +101,7 @@
         y="0"
         class="header"
         data-testid="header"
-      >DomainSaver</text>
+      >container-k8s</text>
     </g>
       </g>
 
@@ -114,19 +114,19 @@
 
 
     <text class="description" x="25" y="-5">
-      <tspan dy="1.2em" x="25">Large-scale domain availability and price lookups that refuse</tspan><tspan dy="1.2em" x="25">to call a name available without a real price quote. Portable</tspan><tspan dy="1.2em" x="25">bash + a /domain-lookup Claude Code skill.</tspan>
+      <tspan dy="1.2em" x="25">Kubernetes development cluster plugin for Apple&#39;s container</tspan><tspan dy="1.2em" x="25">CLI</tspan>
     </text>
 
-    <g transform="translate(30, 75)">
+    <g transform="translate(30, 65)">
       <g transform="translate(0, 0)">
     <g data-testid="primary-lang">
-      <circle data-testid="lang-color" cx="0" cy="-5" r="6" fill="#89e051" />
-      <text data-testid="lang-name" class="gray" x="15">Shell</text>
+      <circle data-testid="lang-color" cx="0" cy="-5" r="6" fill="#F05138" />
+      <text data-testid="lang-name" class="gray" x="15">Swift</text>
     </g>
     </g>
     </g>
 
-  <svg x="0" y="0"><g transform="translate(-3, 98)">
+  <svg x="0" y="0"><g transform="translate(-3, 88)">
 
     </g></svg>
 
