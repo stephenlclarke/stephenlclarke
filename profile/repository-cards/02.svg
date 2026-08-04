@@ -101,7 +101,7 @@
         y="0"
         class="header"
         data-testid="header"
-      >container-k8s</text>
+      >container-engine-api</text>
     </g>
       </g>
 
@@ -114,7 +114,7 @@
 
 
     <text class="description" x="25" y="-5">
-      <tspan dy="1.2em" x="25">Kubernetes development cluster plugin for Apple&#39;s container</tspan><tspan dy="1.2em" x="25">CLI</tspan>
+      <tspan dy="1.2em" x="25">Runtime-neutral Docker Engine API transport and provider</tspan><tspan dy="1.2em" x="25">contracts for the container family</tspan>
     </text>
 
     <g transform="translate(30, 65)">
