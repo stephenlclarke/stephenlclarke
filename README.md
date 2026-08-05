@@ -41,26 +41,26 @@
 <table>
   <tr>
     <td width="50%">
-      <a href="https://github.com/stephenlclarke/homebrew-tap"><img width="100%" src="https://github.com/stephenlclarke/stephenlclarke/raw/refs/heads/main/profile/repository-cards/01.svg" alt="homebrew-tap repository card"/></a>
+      <a href="https://github.com/stephenlclarke/container"><img width="100%" src="https://github.com/stephenlclarke/stephenlclarke/raw/refs/heads/main/profile/repository-cards/01.svg" alt="container repository card"/></a>
     </td>
     <td width="50%">
-      <a href="https://github.com/stephenlclarke/mac-sync"><img width="100%" src="https://github.com/stephenlclarke/stephenlclarke/raw/refs/heads/main/profile/repository-cards/02.svg" alt="mac-sync repository card"/></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/stephenlclarke/containerization"><img width="100%" src="https://github.com/stephenlclarke/stephenlclarke/raw/refs/heads/main/profile/repository-cards/03.svg" alt="containerization repository card"/></a>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/stephenlclarke/bzflag"><img width="100%" src="https://github.com/stephenlclarke/stephenlclarke/raw/refs/heads/main/profile/repository-cards/04.svg" alt="bzflag repository card"/></a>
+      <a href="https://github.com/stephenlclarke/homebrew-tap"><img width="100%" src="https://github.com/stephenlclarke/stephenlclarke/raw/refs/heads/main/profile/repository-cards/02.svg" alt="homebrew-tap repository card"/></a>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <a href="https://github.com/stephenlclarke/bzflag-swift"><img width="100%" src="https://github.com/stephenlclarke/stephenlclarke/raw/refs/heads/main/profile/repository-cards/05.svg" alt="bzflag-swift repository card"/></a>
+      <a href="https://github.com/stephenlclarke/mac-sync"><img width="100%" src="https://github.com/stephenlclarke/stephenlclarke/raw/refs/heads/main/profile/repository-cards/03.svg" alt="mac-sync repository card"/></a>
     </td>
     <td width="50%">
-      <a href="https://github.com/stephenlclarke/devcontainer"><img width="100%" src="https://github.com/stephenlclarke/stephenlclarke/raw/refs/heads/main/profile/repository-cards/06.svg" alt="devcontainer repository card"/></a>
+      <a href="https://github.com/stephenlclarke/containerization"><img width="100%" src="https://github.com/stephenlclarke/stephenlclarke/raw/refs/heads/main/profile/repository-cards/04.svg" alt="containerization repository card"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/stephenlclarke/bzflag"><img width="100%" src="https://github.com/stephenlclarke/stephenlclarke/raw/refs/heads/main/profile/repository-cards/05.svg" alt="bzflag repository card"/></a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/stephenlclarke/bzflag-swift"><img width="100%" src="https://github.com/stephenlclarke/stephenlclarke/raw/refs/heads/main/profile/repository-cards/06.svg" alt="bzflag-swift repository card"/></a>
     </td>
   </tr>
 </table>
