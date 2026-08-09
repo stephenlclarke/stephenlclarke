@@ -41,10 +41,10 @@
 <table>
   <tr>
     <td width="50%">
-      <a href="https://github.com/stephenlclarke/container-compose"><img width="100%" src="https://github.com/stephenlclarke/stephenlclarke/raw/refs/heads/main/profile/repository-cards/01.svg" alt="container-compose repository card"/></a>
+      <a href="https://github.com/stephenlclarke/containerization"><img width="100%" src="https://github.com/stephenlclarke/stephenlclarke/raw/refs/heads/main/profile/repository-cards/01.svg" alt="containerization repository card"/></a>
     </td>
     <td width="50%">
-      <a href="https://github.com/stephenlclarke/containerization"><img width="100%" src="https://github.com/stephenlclarke/stephenlclarke/raw/refs/heads/main/profile/repository-cards/02.svg" alt="containerization repository card"/></a>
+      <a href="https://github.com/stephenlclarke/container-compose"><img width="100%" src="https://github.com/stephenlclarke/stephenlclarke/raw/refs/heads/main/profile/repository-cards/02.svg" alt="container-compose repository card"/></a>
     </td>
   </tr>
   <tr>
