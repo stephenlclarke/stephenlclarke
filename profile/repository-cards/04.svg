@@ -101,7 +101,7 @@
         y="0"
         class="header"
         data-testid="header"
-      >container-engine-api</text>
+      >container</text>
     </g>
       </g>
 
@@ -114,7 +114,7 @@
 
 
     <text class="description" x="25" y="-5">
-      <tspan dy="1.2em" x="25">Runtime-neutral Docker Engine API transport and provider</tspan><tspan dy="1.2em" x="25">contracts for the container family</tspan>
+      <tspan dy="1.2em" x="25">Apple/container fork for Compose V2 preview work; see</tspan><tspan dy="1.2em" x="25">stephenlclarke/container-compose.</tspan>
     </text>
 
     <g transform="translate(30, 65)">
