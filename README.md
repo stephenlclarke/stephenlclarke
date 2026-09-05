@@ -44,23 +44,23 @@
       <a href="https://github.com/stephenlclarke/homebrew-tap"><img width="100%" src="https://github.com/stephenlclarke/stephenlclarke/raw/refs/heads/main/profile/repository-cards/01.svg" alt="homebrew-tap repository card"/></a>
     </td>
     <td width="50%">
-      <a href="https://github.com/stephenlclarke/pacman"><img width="100%" src="https://github.com/stephenlclarke/stephenlclarke/raw/refs/heads/main/profile/repository-cards/02.svg" alt="pacman repository card"/></a>
+      <a href="https://github.com/stephenlclarke/container-compose"><img width="100%" src="https://github.com/stephenlclarke/stephenlclarke/raw/refs/heads/main/profile/repository-cards/02.svg" alt="container-compose repository card"/></a>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <a href="https://github.com/stephenlclarke/fixdecoder_rs"><img width="100%" src="https://github.com/stephenlclarke/stephenlclarke/raw/refs/heads/main/profile/repository-cards/03.svg" alt="fixdecoder_rs repository card"/></a>
+      <a href="https://github.com/stephenlclarke/containerization"><img width="100%" src="https://github.com/stephenlclarke/stephenlclarke/raw/refs/heads/main/profile/repository-cards/03.svg" alt="containerization repository card"/></a>
     </td>
     <td width="50%">
-      <a href="https://github.com/stephenlclarke/battlezone"><img width="100%" src="https://github.com/stephenlclarke/stephenlclarke/raw/refs/heads/main/profile/repository-cards/04.svg" alt="battlezone repository card"/></a>
+      <a href="https://github.com/stephenlclarke/swift-nio-ssl"><img width="100%" src="https://github.com/stephenlclarke/stephenlclarke/raw/refs/heads/main/profile/repository-cards/04.svg" alt="swift-nio-ssl repository card"/></a>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <a href="https://github.com/stephenlclarke/devcontainer"><img width="100%" src="https://github.com/stephenlclarke/stephenlclarke/raw/refs/heads/main/profile/repository-cards/05.svg" alt="devcontainer repository card"/></a>
+      <a href="https://github.com/stephenlclarke/container-builder-shim"><img width="100%" src="https://github.com/stephenlclarke/stephenlclarke/raw/refs/heads/main/profile/repository-cards/05.svg" alt="container-builder-shim repository card"/></a>
     </td>
     <td width="50%">
-      <a href="https://github.com/stephenlclarke/fixdecoder_java"><img width="100%" src="https://github.com/stephenlclarke/stephenlclarke/raw/refs/heads/main/profile/repository-cards/06.svg" alt="fixdecoder_java repository card"/></a>
+      <a href="https://github.com/stephenlclarke/defender"><img width="100%" src="https://github.com/stephenlclarke/stephenlclarke/raw/refs/heads/main/profile/repository-cards/06.svg" alt="defender repository card"/></a>
     </td>
   </tr>
 </table>
