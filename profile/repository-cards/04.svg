@@ -101,7 +101,7 @@
         y="0"
         class="header"
         data-testid="header"
-      >container</text>
+      >devcontainer</text>
     </g>
       </g>
 
@@ -114,7 +114,7 @@
 
 
     <text class="description" x="25" y="-5">
-      <tspan dy="1.2em" x="25">Apple/container fork for Compose V2 preview work; see</tspan><tspan dy="1.2em" x="25">stephenlclarke/container-compose.</tspan>
+      <tspan dy="1.2em" x="25">VS Code-compatible Dev Container tooling for Apple&#39;s</tspan><tspan dy="1.2em" x="25">container runtime.</tspan>
     </text>
 
     <g transform="translate(30, 65)">
