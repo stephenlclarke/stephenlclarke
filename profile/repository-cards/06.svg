@@ -109,7 +109,7 @@
         y="0"
         class="header"
         data-testid="header"
-      >swift-nio-ssl</text>
+      >grpc-swift-nio-transport</text>
     </g>
       </g>
 
@@ -122,14 +122,14 @@
 
 
     <text class="description" x="25" y="-5">
-      <tspan dy="1.2em" x="25">TLS Support for SwiftNIO, based on BoringSSL.</tspan>
+      <tspan dy="1.2em" x="25">No description provided</tspan>
     </text>
 
     <g transform="translate(30, 45)">
       <g transform="translate(0, 0)">
     <g data-testid="primary-lang">
-      <circle data-testid="lang-color" cx="0" cy="-5" r="6" fill="#6E4C13" />
-      <text data-testid="lang-name" class="gray" x="15">Assembly</text>
+      <circle data-testid="lang-color" cx="0" cy="-5" r="6" fill="#F05138" />
+      <text data-testid="lang-name" class="gray" x="15">Swift</text>
     </g>
     </g>
     </g>
