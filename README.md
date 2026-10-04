@@ -44,23 +44,23 @@
       <a href="https://github.com/stephenlclarke/devcontainer"><img width="100%" src="https://github.com/stephenlclarke/stephenlclarke/raw/refs/heads/main/profile/repository-cards/01.svg" alt="devcontainer repository card"/></a>
     </td>
     <td width="50%">
-      <a href="https://github.com/stephenlclarke/container-compose"><img width="100%" src="https://github.com/stephenlclarke/stephenlclarke/raw/refs/heads/main/profile/repository-cards/02.svg" alt="container-compose repository card"/></a>
+      <a href="https://github.com/stephenlclarke/homebrew-tap"><img width="100%" src="https://github.com/stephenlclarke/stephenlclarke/raw/refs/heads/main/profile/repository-cards/02.svg" alt="homebrew-tap repository card"/></a>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <a href="https://github.com/stephenlclarke/gh-auth-refresh"><img width="100%" src="https://github.com/stephenlclarke/stephenlclarke/raw/refs/heads/main/profile/repository-cards/03.svg" alt="gh-auth-refresh repository card"/></a>
+      <a href="https://github.com/stephenlclarke/defender"><img width="100%" src="https://github.com/stephenlclarke/stephenlclarke/raw/refs/heads/main/profile/repository-cards/03.svg" alt="defender repository card"/></a>
     </td>
     <td width="50%">
-      <a href="https://github.com/stephenlclarke/atuin"><img width="100%" src="https://github.com/stephenlclarke/stephenlclarke/raw/refs/heads/main/profile/repository-cards/04.svg" alt="atuin repository card"/></a>
+      <a href="https://github.com/stephenlclarke/container-compose"><img width="100%" src="https://github.com/stephenlclarke/stephenlclarke/raw/refs/heads/main/profile/repository-cards/04.svg" alt="container-compose repository card"/></a>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <a href="https://github.com/stephenlclarke/container"><img width="100%" src="https://github.com/stephenlclarke/stephenlclarke/raw/refs/heads/main/profile/repository-cards/05.svg" alt="container repository card"/></a>
+      <a href="https://github.com/stephenlclarke/gh-auth-refresh"><img width="100%" src="https://github.com/stephenlclarke/stephenlclarke/raw/refs/heads/main/profile/repository-cards/05.svg" alt="gh-auth-refresh repository card"/></a>
     </td>
     <td width="50%">
-      <a href="https://github.com/stephenlclarke/containerization"><img width="100%" src="https://github.com/stephenlclarke/stephenlclarke/raw/refs/heads/main/profile/repository-cards/06.svg" alt="containerization repository card"/></a>
+      <a href="https://github.com/stephenlclarke/atuin"><img width="100%" src="https://github.com/stephenlclarke/stephenlclarke/raw/refs/heads/main/profile/repository-cards/06.svg" alt="atuin repository card"/></a>
     </td>
   </tr>
 </table>
