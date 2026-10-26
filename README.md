@@ -41,10 +41,10 @@
 <table>
   <tr>
     <td width="50%">
-      <a href="https://github.com/stephenlclarke/mac-spinner"><img width="100%" src="https://github.com/stephenlclarke/stephenlclarke/raw/refs/heads/main/profile/repository-cards/01.svg" alt="mac-spinner repository card"/></a>
+      <a href="https://github.com/stephenlclarke/mac-sync"><img width="100%" src="https://github.com/stephenlclarke/stephenlclarke/raw/refs/heads/main/profile/repository-cards/01.svg" alt="mac-sync repository card"/></a>
     </td>
     <td width="50%">
-      <a href="https://github.com/stephenlclarke/mac-sync"><img width="100%" src="https://github.com/stephenlclarke/stephenlclarke/raw/refs/heads/main/profile/repository-cards/02.svg" alt="mac-sync repository card"/></a>
+      <a href="https://github.com/stephenlclarke/mac-spinner"><img width="100%" src="https://github.com/stephenlclarke/stephenlclarke/raw/refs/heads/main/profile/repository-cards/02.svg" alt="mac-spinner repository card"/></a>
     </td>
   </tr>
   <tr>
