@@ -109,7 +109,7 @@
         y="0"
         class="header"
         data-testid="header"
-      >meridian</text>
+      >aws-auto-approve</text>
     </g>
       </g>
 
@@ -122,14 +122,14 @@
 
 
     <text class="description" x="25" y="-5">
-      <tspan dy="1.2em" x="25">Meridian &#8212; a fresh Rust reimplementation of the space</tspan><tspan dy="1.2em" x="25">trading game.</tspan>
+      <tspan dy="1.2em" x="25">Native Swift macOS helper for locally initiated AWS SSO</tspan><tspan dy="1.2em" x="25">approval</tspan>
     </text>
 
     <g transform="translate(30, 65)">
       <g transform="translate(0, 0)">
     <g data-testid="primary-lang">
-      <circle data-testid="lang-color" cx="0" cy="-5" r="6" fill="#dea584" />
-      <text data-testid="lang-name" class="gray" x="15">Rust</text>
+      <circle data-testid="lang-color" cx="0" cy="-5" r="6" fill="#89e051" />
+      <text data-testid="lang-name" class="gray" x="15">Shell</text>
     </g>
     </g>
     </g>

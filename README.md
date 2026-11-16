@@ -41,18 +41,18 @@
 <table>
   <tr>
     <td width="50%">
-      <a href="https://github.com/stephenlclarke/meridian"><img width="100%" src="https://github.com/stephenlclarke/stephenlclarke/raw/refs/heads/main/profile/repository-cards/01.svg" alt="meridian repository card"/></a>
+      <a href="https://github.com/stephenlclarke/aws-auto-approve"><img width="100%" src="https://github.com/stephenlclarke/stephenlclarke/raw/refs/heads/main/profile/repository-cards/01.svg" alt="aws-auto-approve repository card"/></a>
     </td>
     <td width="50%">
-      <a href="https://github.com/stephenlclarke/battlezone"><img width="100%" src="https://github.com/stephenlclarke/stephenlclarke/raw/refs/heads/main/profile/repository-cards/02.svg" alt="battlezone repository card"/></a>
+      <a href="https://github.com/stephenlclarke/meridian"><img width="100%" src="https://github.com/stephenlclarke/stephenlclarke/raw/refs/heads/main/profile/repository-cards/02.svg" alt="meridian repository card"/></a>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <a href="https://github.com/stephenlclarke/pacman"><img width="100%" src="https://github.com/stephenlclarke/stephenlclarke/raw/refs/heads/main/profile/repository-cards/03.svg" alt="pacman repository card"/></a>
+      <a href="https://github.com/stephenlclarke/battlezone"><img width="100%" src="https://github.com/stephenlclarke/stephenlclarke/raw/refs/heads/main/profile/repository-cards/03.svg" alt="battlezone repository card"/></a>
     </td>
     <td width="50%">
-      <a href="https://github.com/stephenlclarke/aws-auto-approve"><img width="100%" src="https://github.com/stephenlclarke/stephenlclarke/raw/refs/heads/main/profile/repository-cards/04.svg" alt="aws-auto-approve repository card"/></a>
+      <a href="https://github.com/stephenlclarke/pacman"><img width="100%" src="https://github.com/stephenlclarke/stephenlclarke/raw/refs/heads/main/profile/repository-cards/04.svg" alt="pacman repository card"/></a>
     </td>
   </tr>
   <tr>
