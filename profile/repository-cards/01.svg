@@ -1,8 +1,8 @@
 
       <svg
         width="400"
-        height="140"
-        viewBox="0 0 400 140"
+        height="150"
+        viewBox="0 0 400 150"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
         role="img"
@@ -109,7 +109,7 @@
         y="0"
         class="header"
         data-testid="header"
-      >aws-auto-approve</text>
+      >meridian</text>
     </g>
       </g>
 
@@ -122,19 +122,19 @@
 
 
     <text class="description" x="25" y="-5">
-      <tspan dy="1.2em" x="25">Native Swift macOS helper for locally initiated AWS SSO</tspan><tspan dy="1.2em" x="25">approval</tspan>
+      <tspan dy="1.2em" x="25">Meridian &#8212; A Space Exploration Game; Trading / Piracy /</tspan><tspan dy="1.2em" x="25">Courier / Bounty Hunting / Mining / Salvage / Exploration /</tspan><tspan dy="1.2em" x="25">Fun!.</tspan>
     </text>
 
-    <g transform="translate(30, 65)">
+    <g transform="translate(30, 75)">
       <g transform="translate(0, 0)">
     <g data-testid="primary-lang">
-      <circle data-testid="lang-color" cx="0" cy="-5" r="6" fill="#89e051" />
-      <text data-testid="lang-name" class="gray" x="15">Shell</text>
+      <circle data-testid="lang-color" cx="0" cy="-5" r="6" fill="#dea584" />
+      <text data-testid="lang-name" class="gray" x="15">Rust</text>
     </g>
     </g>
     </g>
 
-  <svg x="0" y="0"><g transform="translate(-3, 88)">
+  <svg x="0" y="0"><g transform="translate(-3, 98)">
 
     </g></svg>
 
